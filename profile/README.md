@@ -100,15 +100,17 @@ El símbolo de Zivlo fusiona un **rayo** (velocidad, energía, instantáneo) con
 
 **Logo Principal**
 
-<svg width="200" height="72" viewBox="0 0 260 72" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <path d="M38 2 L14 36 H24 L6 70 H9 L13 63 L17 70 L21 63 L25 70 L29 63 L33 70 L37 63 L41 70 H44 L28 36 H38 Z" fill="#E94560"/>
-  <text x="58" y="52" font-family="Syne, sans-serif" font-weight="800" font-size="48" fill="#ffffff">zivlo</text>
-</svg>
+<div style="display:inline-flex;align-items:center;gap:14px;">
+  <svg width="52" height="72" viewBox="0 0 52 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M38 2 L14 36 H24 L6 70 H9 L13 63 L17 70 L21 63 L25 70 L29 63 L33 70 L37 63 L41 70 H44 L44 70 L28 36 H38 Z" fill="#E94560"/>
+  </svg>
+  <span style="font-family:'Syne',sans-serif;font-weight:800;font-size:56px;color:#ffffff;line-height:1;">zivlo</span>
+</div>
 
 **Símbolo (Ícono de App)**
 
-<svg width="88" height="120" viewBox="0 0 52 72" fill="none" xmlns="http://www.w3.org/2000/svg" style="background:#1A1A2E;padding:16px;border-radius:16px;">
-  <path d="M38 2 L14 36 H24 L6 70 H9 L13 63 L17 70 L21 63 L25 70 L29 63 L33 70 L37 63 L41 70 H44 L28 36 H38 Z" fill="#E94560"/>
+<svg width="64" height="88" viewBox="0 0 52 72" fill="none" xmlns="http://www.w3.org/2000/svg" style="background:#1A1A2E;padding:16px;border-radius:16px;">
+  <path d="M38 2 L14 36 H24 L6 70 H9 L13 63 L17 70 L21 63 L25 70 L29 63 L33 70 L37 63 L41 70 H44 L44 70 L28 36 H38 Z" fill="#E94560"/>
 </svg>
 
 </div>
