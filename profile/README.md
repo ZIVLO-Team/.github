@@ -25,6 +25,7 @@ Somos una organización dedicada a desarrollar soluciones tecnológicas para el 
 | Repositorio | Descripción | Estado |
 |-------------|-------------|--------|
 | [**zivlo-app**](https://github.com/ZIVLO-Team/zivlo-app) | App móvil Flutter — POS offline-first | ✅ En desarrollo |
+| [**zivlo-docs**](https://github.com/ZIVLO-Team/zivlo-docs) | Documentación oficial del proyecto | ✅ Disponible |
 | [**zivlo-backend**](https://github.com/ZIVLO-Team/zivlo-backend) | API FastAPI + PostgreSQL para sincronización | 📋 Pendiente |
 | [**zivlo-license-generator**](https://github.com/ZIVLO-Team/zivlo-license-generator) | Generador de licencias JWT | 📋 Pendiente |
 
